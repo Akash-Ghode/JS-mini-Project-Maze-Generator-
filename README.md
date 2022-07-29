@@ -16,7 +16,7 @@ Hosted on Netlify :  https://iridescent-lily-9a1a92.netlify.app
   <li>The default  Maze Size is 500, shape Square with maze rows/columns equal to 20.</li>
   <li>The Maximum allowed Maze size is set to 600  with rows/columns as 50.</li>
   <li>This project helps in learning/practicing the Data Structures like Stacks, Array Matrix and algorithms like Backtracking and Recursion.</li>
-  <li>The HTML <canvas> element was used to draw graphics on a web page.</li>
+  <li>The HTML Canvas element was used to draw graphics on a web page.</li>
 
 </ul>
   <p>References: Wikipedia  https://en.wikipedia.org/wiki/Maze_generation_algorithm</p>
